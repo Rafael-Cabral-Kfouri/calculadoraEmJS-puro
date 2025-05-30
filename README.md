@@ -1,1 +1,2 @@
-# calculadoraJS-puro
+# Projetos.Js
+Projetos em Javascript
