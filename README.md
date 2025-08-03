@@ -32,5 +32,5 @@
 <h3>Cloning</h3>
 
 ```bash
-git clone https://github.com/Rafael-Cabral-Kfouri/projetoReactToDo.git
+[git clone https://github.com/Rafael-Cabral-Kfouri/projetoReactToDo.git](https://github.com/Rafael-Cabral-Kfouri/calculadoraEmJS-puro.git)
 ```
