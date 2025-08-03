@@ -11,7 +11,7 @@
 
 <h2 id="layout">🎨 Layout</h2>
  
-</p>
+https://github.com/Rafael-Cabral-Kfouri/calculadoraEmJS-puro/issues/1#issue-3286534034
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d69b401e-b2a5-4919-9abf-4f93808f9cf4">
 </p>
