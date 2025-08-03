@@ -15,3 +15,22 @@
 </p>
 
 <h2 id="technologies">💻 Tecnologies</h2>
+
+<ul>
+    <li>Javascript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
+<h2 id="started">🚀 Getting started</h2>
+
+<h3>Prerequisites</h3>
+<ul>
+    <li>VS Code</li>
+</ul>
+
+<h3>Cloning</h3>
+
+```bash
+git clone https://github.com/Rafael-Cabral-Kfouri/projetoReactToDo.git
+```
